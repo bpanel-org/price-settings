@@ -22,7 +22,7 @@
   "author": "bpanel-devs",
   "license": "MIT",
   "dependencies": {
-    "@bpanel/price": "0.0.3",
+    "@bpanel/price": "^0.0.4",
     "@bpanel/settings": "^1.0.0",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0"
